@@ -1,0 +1,21 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.vscode/*
+
+# Python
+venv/
+__pycache__/
+
+# Power BI
+*.pbix
+*.pbit
+
+# Data
+*.bak
+*.mdf
+*.ldf
+
+# Misc
+*.log

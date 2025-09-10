@@ -1,0 +1,11 @@
+This is a placeholder file.
+
+Add your Power BI Desktop report file here as:
+powerbi/report.pbix
+
+NOTE:
+- Before committing a real .pbix, install Git LFS locally:
+  git lfs install
+  git lfs track "*.pbix"
+  git add .gitattributes
+  git commit -m "Track pbix with Git LFS"

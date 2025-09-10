@@ -23,4 +23,4 @@ jobs:
 
       - name: Spellcheck Markdown
         run: |
-          codespell --skip="*.pbix,*.pbit" .
+          codespell --skip="*.pbix,*.pbit,*.pdf,*.git,*.jpg" .
